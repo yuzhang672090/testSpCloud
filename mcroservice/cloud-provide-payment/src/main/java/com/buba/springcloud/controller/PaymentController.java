@@ -16,7 +16,7 @@ public class PaymentController {
 
     private final static Logger logger = LoggerFactory.getLogger(PaymentController.class);
     /**
-     * paymentservice01
+     * paymentservice02
      */
     @Autowired
     private PaymentService paymentService;
