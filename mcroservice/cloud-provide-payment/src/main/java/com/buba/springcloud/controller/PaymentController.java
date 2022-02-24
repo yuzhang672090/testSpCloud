@@ -15,7 +15,9 @@ import org.springframework.web.bind.annotation.*;
 public class PaymentController {
 
     private final static Logger logger = LoggerFactory.getLogger(PaymentController.class);
-
+    /**
+     * paymentservice
+     */
     @Autowired
     private PaymentService paymentService;
 
