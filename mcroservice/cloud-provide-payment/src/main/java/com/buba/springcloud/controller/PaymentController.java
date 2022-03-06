@@ -30,6 +30,7 @@ public class PaymentController {
         if(!logger.isInfoEnabled()){
             logger.info("=======插入成功=============="+i);
         }
+        //判断是否插入成功
         if(i>0){
             return new CommonResult(200,"插入db成功",i);
         }else {
