@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62b3faa8-2ebf-4ba0-bdf7-dc9f53fd3c16" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/buba/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/buba/springcloud/controller/PaymentController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,9 @@
       <updated>1645716443549</updated>
       <workItem from="1645716448081" duration="1514000" />
       <workItem from="1645718324797" duration="1568000" />
-      <workItem from="1646488697891" duration="1478000" />
+      <workItem from="1646488697891" duration="5953000" />
+      <workItem from="1652833424694" duration="170000" />
+      <workItem from="1652833621877" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1645717994892</created>

@@ -46,6 +46,7 @@ public class PaymentController {
             logger.info("=======查询成功==========="+payment);
         }
 
+        //0518注释
         if(payment==null){
             return new CommonResult(444,"查询失败",null);
         }else {
