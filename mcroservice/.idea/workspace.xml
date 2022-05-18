@@ -32,7 +32,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,7 +60,7 @@
       <workItem from="1645718324797" duration="1568000" />
       <workItem from="1646488697891" duration="5953000" />
       <workItem from="1652833424694" duration="170000" />
-      <workItem from="1652833621877" duration="634000" />
+      <workItem from="1652833621877" duration="1894000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1645717994892</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645718706085</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0518注释">
+      <created>1652834632680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652834632680</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
     <MESSAGE value="第四次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
+    <MESSAGE value="0518注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="0518注释" />
   </component>
 </project>
